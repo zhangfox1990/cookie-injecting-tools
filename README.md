@@ -3,6 +3,8 @@ Cookie-Injecting-Tools 1.0.0
 It's a chrome extension 
 Cookie injecting tools includeing  injecting ,editing ,adding ,removeing cookies.
 
+Team: Ark Zhangfox1990
+
 Easy to use.
 ============
 1.Inject Cookies <br />
