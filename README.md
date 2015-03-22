@@ -3,7 +3,7 @@ Cookie-Injecting-Tools 1.0.0
 It's a chrome extension 
 Cookie injecting tools includeing  injecting ,editing ,adding ,removeing cookies.
 
-Team: Ark Zhangfox1990
+Team: Ark Zhangfox1990.
 
 Easy to use.
 ============
@@ -20,7 +20,6 @@ input the keywords of the domains you want to watch.
 
 ![Alt text](/demo_pics/demo2.png "interface1")
 
-3.Edit Cookies</br>
 
 click the "Edit" button ,it will skip to Edit Interface.
 
